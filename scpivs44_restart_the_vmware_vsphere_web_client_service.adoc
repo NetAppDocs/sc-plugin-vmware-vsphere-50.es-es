@@ -16,10 +16,6 @@ summary: Si el cliente VMware vSphere de SnapCenter comienza a comportarse de fo
 [role="lead"]
 Si el cliente VMware vSphere de SnapCenter comienza a comportarse de forma incorrecta, es posible que deba borrar la memoria caché del explorador. Si el problema persiste, reinicie el servicio del cliente web.
 
-
-
-== Reinicie el servicio del cliente de VMware vSphere en una instancia de Linux vCenter
-
 .Antes de empezar
 Debe ejecutar vCenter 7.0U1 o una versión posterior.
 
