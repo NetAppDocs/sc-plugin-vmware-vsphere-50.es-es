@@ -2051,7 +2051,6 @@
   <block id="5a2083853297d8e177a0fe4d54c85aad" category="paragraph">Esta tarea permite cambiar la configuración predeterminada del registro de auditoría.</block>
   <block id="bf59ac9161d0f4561a155103d8ea2d10" category="list-text">En el panel *Configuración del registro de auditoría*, introduzca el número máximo de archivos de registro de auditoría y el límite de tamaño del archivo de registro de auditoría.</block>
   <block id="f1505fcf11606ca7535d26bceed3763b" category="sidebar">El plugin de SnapCenter para VMware vSphere (SCV) es un dispositivo virtual basado en Linux. Como independiente, ofrece operaciones de backup y restauración rápidas, eficientes con el espacio, consistentes con los fallos y consistentes con las máquinas virtuales para máquinas virtuales, almacenes de datos y VMDK. También funciona con SnapCenter Server para admitir las operaciones de backup y restauración basadas en aplicaciones en entornos VMware para plugins específicos de aplicaciones de SnapCenter. Esta biblioteca de documentación describe las versiones 5,0 del plugin de SnapCenter para VMware vSphere.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="sidebar">Documentación del plugin de SnapCenter para VMware vSphere</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="sidebar">El plugin de SnapCenter para VMware vSphere (SCV) es un dispositivo virtual basado en Linux. Como independiente, ofrece operaciones de backup y restauración rápidas, eficientes con el espacio, consistentes con los fallos y consistentes con las máquinas virtuales para máquinas virtuales, almacenes de datos y VMDK. También funciona con SnapCenter Server para admitir las operaciones de backup y restauración basadas en aplicaciones en entornos VMware para plugins específicos de aplicaciones de SnapCenter.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
   <block id="5dd03e8d039863e563e049be198c3fd3" category="sidebar">Notas de la versión</block>
@@ -2096,4 +2095,5 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Flujos de trabajo de API DE REST para modificar las programaciones integradas</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Actualice a un nuevo parche de la misma versión</block>
   <block id="b02541bab3f320c7517f41f638f6ef31" category="paragraph"><block ref="6f48ea8f284b5f5f2ad46612a3e37eec" category="inline-link-macro-rx"></block>.</block>
+  <block id="e2baf69e920d271345d54408c922dc4e" category="sidebar">Documentación del plugin de SnapCenter para VMware vSphere 5,0</block>
 </blocks>
